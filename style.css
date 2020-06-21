@@ -1,0 +1,107 @@
+.container{
+  width: 100%;
+}
+
+
+.primo{
+  background-color: #2C3E50;
+  height: 65px;
+  color: white;
+}
+.sezioneuno h2{
+  font-size: 1.75em;
+  color: white;
+  font-weight: bolder;
+}
+
+.menu li{
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px;
+  font-weight: bold;
+
+}
+
+.sezioneuno, .menu ul li:hover {
+    color: #19BC9C;
+    cursor: pointer;
+}
+
+.secondo{
+  background-color: #19BC9C;
+  width: 100%;
+}
+
+.secondo img{
+  width: 210px;
+  margin-top: 20px;
+}
+
+.jumbotron_site h1 {
+    color: white;
+    font-size: 55px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.separazione-stella {
+    height: 60px;
+    width: 45%;
+    display: inline-block;
+    border: solid 1px black;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+i {
+    font-size: 32px;
+    color: white;
+    margin-top: 25%;
+}
+
+
+.stellalinee{
+  width: 50%;
+  height: 80px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.rigo1{
+  width: 40%;
+  height: 100%;
+  float: left;
+}
+
+.contenitorestella{
+  width: 20%;
+  float: left;
+  height: 100%;
+}
+
+.rigo2{
+  width: 40%;
+  height: 100%;
+  float: left;
+}
+
+.linea-sx{
+  width: 60%;
+  max-width: 10rem;
+  height: 0.25rem;
+  border: solid 2px white;
+  margin-top: 20%;
+  margin-left:93px;
+}
+
+.linea-dx{
+  width: 60%;
+  max-width: 10rem;
+  height: 0.25rem;
+  border: solid 2px white;
+  margin-top: 20%;
+}
+
+.h4{
+  color:white;
+}
